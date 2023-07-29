@@ -1,0 +1,5 @@
+[
+  "integration_test/test_create_bookijng.py::test_createbooking_tc1",
+  "integration_test/test_create_bookijng.py::test_createbooking_tc2",
+  "integration_test/test_create_bookijng.py::test_createbooking_tc3"
+]
